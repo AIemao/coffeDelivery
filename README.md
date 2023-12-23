@@ -1,4 +1,4 @@
-# Coffee Delivery 1.0 :coffee:
+# Coffee Delivery
 
 Esta solução é baseada no curso Rocketseat - Coffee Delivery Desafio prático. 
 
@@ -29,17 +29,15 @@ Coffee Delivery - é um sistema prático de compras de café online. Os usuário
 
 ### Construido com
 
-- [ReactJS]
-- [Typescript]
-- [React Router DOM]
-- [Styled Components]
-- [Context API]
+- [ReactJS](https://react.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [React Router DOM](https://reactrouter.com/en/main)
+- [Styled Components](https://styled-components.com/)
+- [Context API](https://legacy.reactjs.org/docs/context.html)
 - [Reducer](https://react.dev/reference/react/useReducer)
-- [Effect Hook]
-- [Axios]
-- [Phosphor Icons]
-- [React Input Mask]
-- [UUID]
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Phosphor Icons](https://phosphoricons.com/)
+- [UUID](https://www.npmjs.com/package/uuid)
 - [ImmerJS](https://immerjs.github.io/immer/)
 
 ### O que aprendi
