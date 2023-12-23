@@ -6,7 +6,7 @@ Esta solução é baseada no curso Rocketseat - Coffee Delivery Desafio prático
 
 - [Visão geral](#visão-geral)
    - [Captura de tela](#sobre-o-projeto)
-   - [Links](#links)
+   - [Link](#link)
 - [Meu processo](#meu-processo)
    - [Construído com](#construído-com)
    - [O que aprendi](#o-que-aprendi)
@@ -20,10 +20,9 @@ Coffee Delivery - é um sistema prático de compras de café online. Os usuário
   <img  title="HomeImage" src="./src/assets/ImagemDelivery.png" width="90%">
 
 
-## Links
+## Link
 
-- Solução URL: 
-- Live Site URL: 
+- Solution URL: [GitHub](https://github.com/AIemao/coffeDelivery)
 
 ## Meu processo
 
